@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/HandWrittenDigitRecognitionFrontend/static/js/main.9399c2ed.js",
+    "static/media/loader.svg": "/HandWrittenDigitRecognitionFrontend/static/media/loader.c18dc806ad66c4b05e363864ea8d54fc.svg",
+    "index.html": "/HandWrittenDigitRecognitionFrontend/index.html",
+    "main.9399c2ed.js.map": "/HandWrittenDigitRecognitionFrontend/static/js/main.9399c2ed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9399c2ed.js"
+  ]
+}
